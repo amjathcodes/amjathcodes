@@ -1,6 +1,12 @@
 # 💫 About Me:
 🔭 I’m currently working on building scalable MERN stack applications with clean architecture and performant UIs<br>👯 I’m looking to collaborate on full-stack MERN projects, SaaS ideas, and real-world products<br>🤝 I’m looking for help with system design, backend scalability, and production-grade deployments<br>🌱 I’m currently learning advanced Node.js patterns, database optimization, and distributed systems<br>💬 Ask me about MongoDB, Express.js, React.js, Node.js, or full-stack JavaScript development<br>⚡ Fun fact: I treat JavaScript like coffee—strong, smooth, and essential for survival ☕⚙️
+---
 
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.amjath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amjath-khan-dev2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.amjathkhan@gmail.com) 
